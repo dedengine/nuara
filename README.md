@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="NUARA/assets/branding/nuara-logo.png" alt="Logo NUARA" width="180">
+  <img src="assets/branding/nuara-logo.png" alt="Logo NUARA" width="180">
 </p>
 
 <h1 align="center">NUARA</h1>
