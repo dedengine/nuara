@@ -1,0 +1,37 @@
+# Rahasia dan environment lokal
+**/.env
+**/.env.*
+!**/.env.example
+
+# Editor dan sistem operasi
+**/.idea/
+**/.vscode/
+**/*.iml
+.DS_Store
+Thumbs.db
+
+# Rust
+**/target/
+
+# Flutter dan Dart
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/build/
+**/coverage/
+**/android/.gradle/
+**/ios/Pods/
+
+# Media dan data runtime
+NUARA/backend/storage/uploads/
+!NUARA/backend/storage/uploads/.gitkeep
+
+# Video dokumentasi melebihi batas ukuran GitHub
+DOKUMENTASI BARU/**/*.mp4
+DOKUMENTASI LAMA/**/*.mp4
+
+# Log dan file sementara
+**/*.log
+**/*.tmp
+**/*.bak
